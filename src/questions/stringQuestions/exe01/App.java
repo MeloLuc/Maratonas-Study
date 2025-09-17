@@ -1,4 +1,4 @@
-package stringQuestions.exe01;
+package questions.stringQuestions.exe01;
 
 public class App {
     public static void main(String[] args) {

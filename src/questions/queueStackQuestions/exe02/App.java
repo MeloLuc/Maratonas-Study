@@ -1,4 +1,4 @@
-package queueStackQuestions.exe02;
+package questions.queueStackQuestions.exe02;
 
 import java.util.Deque;
 import java.util.ArrayDeque;

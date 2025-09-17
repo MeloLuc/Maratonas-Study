@@ -1,4 +1,4 @@
-package queueStackQuestions.exe01;
+package questions.queueStackQuestions.exe01;
 
 public class App {
     public static void main(String[] args) {

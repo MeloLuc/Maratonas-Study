@@ -1,4 +1,4 @@
-package stringQuestions.exe01;
+package questions.stringQuestions.exe01;
 
 public class Prefix {
 
